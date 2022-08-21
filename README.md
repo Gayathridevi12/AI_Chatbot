@@ -16,3 +16,4 @@ The AI chatbot is a simple automatic communicating system for a college enquiry.
 # To run the project
 To run this project you can install Pycharm(for code execution)and also Anaconda(for the virtual environment)on our pc.
 # Sample Output
+![WhatsApp Image 2022-08-21 at 11 34 49 AM](https://user-images.githubusercontent.com/111652825/185778161-d37649d3-28e8-421a-bc5a-c378c2bfc5b5.jpeg)
